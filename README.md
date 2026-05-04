@@ -1,3 +1,3 @@
-LLM-Research Assisstant
+LLM-research-assisstant
 
 This project implements an intelligent research assistant that leverages transformer-based models for document summarization and question answering. It combines semantic search (FAISS) with deep learning (Hugging Face Transformers) to enable efficient information retrieval from long documents.
